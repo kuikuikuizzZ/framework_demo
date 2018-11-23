@@ -100,9 +100,9 @@ tensorflow/transfer_learning_flower/summary/*
 tensorflow/transfer_learning_flower/serialized_init/*
 tensorflow/transfer_learning_flower/__pycache__/*
 tensorflow/transfer_learning_flower/_getattr__/*
-*cifar10/cifar-10-batches-bin/
-*cifar10/cifar-10-binary.tar.gz
-*cifar10/tmp/
+tensorflow/cifar10/cifar-10-batches-bin/*
+tensorflow/cifar10/cifar-10-binary.tar.gz
+tensorflow/cifar10/tmp/*
 # Mac DS_Store
 *.DS_Store
 *checkpoint
