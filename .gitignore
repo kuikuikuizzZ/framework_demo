@@ -92,9 +92,14 @@ ENV/
 # PyCharm
 .idea/
 
-tensorflow/transfer_learning_flower/checkpoint
-tensorflow/transfer_learning_flower/datasets
-tensorflow/transfer_learning_flower/summary
-tensorflow/transfer_learning_flower/serialized_init
-tensorflow/transfer_learning_flower/__pycache__
-tensorflow/transfer_learning_flower/_getattr__
+
+# data files
+tensorflow/transfer_learning_flower/checkpoint/*
+tensorflow/transfer_learning_flower/datasets/*
+tensorflow/transfer_learning_flower/summary/*
+tensorflow/transfer_learning_flower/serialized_init/*
+tensorflow/transfer_learning_flower/__pycache__/*
+tensorflow/transfer_learning_flower/_getattr__/*
+
+# Mac DS_Store
+*.DS_Store
